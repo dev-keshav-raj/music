@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": "90s",
+            "name": "90's Special"
+        },
+        {
+            "id": "bhojpuri",
+            "name": "Bhojpuri OG's"
+        },
+        {
+            "id": "zenz",
+            "name": "Zen Z"
+        },
+        {
+            "id": "truck",
+            "name": "Truck Songs"
+        },
+        {
+            "id": "travel",
+            "name": "Travel Songs"
+        },
+        {
+            "id": "saloon",
+            "name": "Saloon Songs"
+        }
+    ]
+}
